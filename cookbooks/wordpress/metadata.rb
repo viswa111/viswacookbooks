@@ -1,0 +1,5 @@
+name 'wordpress'
+description 'A cookbook to install wordpress'
+version '1.0.0'
+maintainer 'viswa'
+maintainer_email 'korrapati007@gmail.com'

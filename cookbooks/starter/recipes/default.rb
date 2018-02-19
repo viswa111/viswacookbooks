@@ -23,5 +23,4 @@ execute 'sample_execution' do
   # not_if {File.exists?("/tmp/index.html")}
    creates "/tmp/index.html"
 end
-
 # For more information, see the documentation: https://docs.chef.io/essentials_cookbook_recipes.html
